@@ -1,0 +1,1 @@
+I am setting up my github repository and learning how to utilize the termial, git, github, and vs code all in conjunction.
