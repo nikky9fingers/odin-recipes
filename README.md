@@ -1,2 +1,2 @@
-Recipe Test Site
-I am encorporating all the skills I have learned thusfar to create a simple site in order to understand the functionality of the new tools.
+Recipe Website
+This project aims to create a recipe website that provides a user-friendly platform for discovering, sharing, and organizing culinary creations. Whether you're a novice cook or a seasoned chef, this website will be your go-to resource for finding delicious recipes, trying new dishes, and connecting with a vibrant community of food enthusiasts.
